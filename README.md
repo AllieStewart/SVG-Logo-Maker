@@ -8,10 +8,10 @@ Challenge 10 coursework for UT bootcamp. Uses Node.js.
 
 ## Usage
 Simply click on the video and watch the magic happen. </br>  
-Link to the video: ----- </br>
+Link to the video: --- </br>
 
 ## What I Have Learned
-------
+---
 
 ## Credits
 Made by Allie Stewart. </br>
