@@ -1,0 +1,34 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "An SVG logo maker, designed with Node.js in mind.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllieStewart/SVG-Logo-Maker.git"
+  },
+  "keywords": [
+    "svg-logo-maker",
+    "allie",
+    "stewart",
+    "challenge",
+    "10"
+  ],
+  "author": "Allie Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AllieStewart/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/AllieStewart/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
