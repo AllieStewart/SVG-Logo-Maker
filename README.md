@@ -32,7 +32,7 @@ Colors can be inputted either with a keyword (ex: blue) or a hexadecimal (ex: #F
 
 ## Usage
 Simply click on the video and watch the magic happen. </br>  
-Link to the video: --- </br>
+Link to the video: https://drive.google.com/file/d/1z2hIKe5gFge5vtHa2sASwSBPBRbVMHID/view</br>
 
 ## What I Have Learned
 I have learned a lot about applying object-oriented programming into
